@@ -1,5 +1,5 @@
 // npm i express
-//  npm i -D nodemon
+// npm i -D nodemon
 // mkdir server routes
 // touch server/index.js routes/index.js
 // npm start-dev

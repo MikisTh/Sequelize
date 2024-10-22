@@ -1,0 +1,7 @@
+module.exports = {
+    createPost,
+    getAllPosts,
+    getPostById,
+    updatePost,
+    deletePost,
+  }
